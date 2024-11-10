@@ -11,6 +11,6 @@ I just graduated and started working in [Baichuan AI](https://www.baichuan-ai.co
 
 I am interested in large language models and machine learning. Welcome to discuss with me.
 
-[Email](xumingyu2021@ia.ac.cn)
+My resume (Chinese Version) is [here](../assets/cv_20241107.pdf). And my email is xumingyu2021@ia.ac.cn.
 
 
